@@ -27,7 +27,7 @@ Mar 9, 2016 - Welcome to Google's Python Class -- this is a free class for peopl
 `
 
 # Example - Output:
-`
+
 https://en.wikipedia.org/wiki/Python_(programming_language)
 
 https://xkcd.com/353/
@@ -38,7 +38,7 @@ https://www.codecademy.com/courses/introduction-to-python-6WeG3/0/1?...id
 
 https://developers.google.com/edu/python/
 
-`
+
 
 
 
